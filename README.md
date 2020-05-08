@@ -37,9 +37,9 @@ Edit this document to include your answers after each question. Make sure to lea
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 Semantic HTML is the "proper" way of coding HTML. It looks nice and is simple to read. Technically you can use your own tags with HTML but if you passed it onto another coworker they would have to learn your version of HTML. Semantic HTML is a standard way of writing it so everybody understands.
 2. What are the 4 areas of the box model?
-
+Content, padding, border, margin
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
-
+x-axis
 4. Explain why git is valuable to a team of developers.
 It allows everyone in the group to simultaneously work on their code.
 5. Define mobile-first design in your own words.
