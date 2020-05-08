@@ -71,6 +71,24 @@ p {
     margin: 0 auto;
 }
 
+header {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+}
+
+header img{
+    margin: 2% 3% 5% 0%
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -111,6 +129,8 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+
 
 .bottom-content {
     display: flex;
